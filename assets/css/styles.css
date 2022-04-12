@@ -1,0 +1,22 @@
+.hero{
+
+    /* adding background image */
+    background-image: url("../images/homepage04b.jpg");
+
+    /* set the height of the Jumbotron */
+    height: 450px;
+
+    /* stretch the background image so it covers the entire jumbotron */
+    background-size: contain;
+
+    /* make sure the background does not repeat */
+    background-repeat: no-repeat;
+
+    /* set the background to be fixed so the page appears to scroll over it */
+    background-attachment: fixed;
+}
+
+.test-style {
+    font-weight: bold;
+    color: rebeccapurple;
+}
