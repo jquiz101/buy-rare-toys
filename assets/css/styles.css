@@ -1,13 +1,15 @@
 .hero{
 
     /* adding background image */
-    background-image: url("../images/homepage04b.jpg");
+    /* background-image: url("../images/homepage04b.jpg"); */
+    background-image: url("https://media1.thehungryjpeg.com/thumbs2/ori_3511749_b845b4bba9ebdc156b6fe58d3a3ce3e91e430233_retro-futuristic-background-80s-style.jpg");
+    
 
     /* set the height of the Jumbotron */
     height: 450px;
 
     /* stretch the background image so it covers the entire jumbotron */
-    background-size: contain;
+    background-size: cover;
 
     /* make sure the background does not repeat */
     background-repeat: no-repeat;
