@@ -40,6 +40,10 @@
     margin-bottom: 25px;
 }
 
+body { 
+    padding-bottom: 70px;
+}
+
 .test-style {
     font-weight: bold;
     color: rebeccapurple;
